@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713238358013",
+    "project_id": "newcanaryproject-d1bde",
+    "storage_bucket": "newcanaryproject-d1bde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713238358013:android:447edb4734dee3b6c21b94",
+        "android_client_info": {
+          "package_name": "com.example.newcanaryproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP8ipJD3XkS4Y8ZwTK2P8OCvLQMKbZDpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
